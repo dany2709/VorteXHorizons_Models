@@ -1,0 +1,14 @@
+name: vortex_horizons_models
+description: "VorteX Horizons Models"
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  json_annotation: ^4.9.0
+
+dev_dependencies:
+  build_runner: ^2.4.12
+  json_serializable: ^6.8.0
